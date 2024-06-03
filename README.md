@@ -376,3 +376,166 @@ At a minimum, data architecture considers and typically supports the following:
 -  Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value.
 
 -  Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses.
+
+# Chapter 3
+
+#  Driving Value Through Data
+
+-  Identifying many roles data plays in organizations
+
+-  Delivering insight from data
+
+-  Recognizing that data is an asset
+
+-  Exploring four approaches to data analytics
+
+#  Identifying the Roles of Data
+
+-  To fully appreciate the value that data brings to every organization, it’s worth exploring the many ways that data shows up on a daily basis.
+
+-  Recognizing the incredible diversity of data use and the exposure it has across all business functions reinforces its importance.
+
+#  Operations
+
+-  Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization.
+
+-  Each business has different needs, and operational functions reflect these specific requirements.
+
+#  Strategy
+
+-  Every organization has a strategy, whether it’s articulated overtly or not.
+
+-  At the organizational level, this is about creating a plan that supports objectives and goals.
+
+-  Strategy leads to implementation and requires the support of operations to realize its goals.
+
+#  Decision-Making
+
+-  It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions.
+
+-  The volume and quality of data available today have no precedent in history.
+
+#  Measuring
+
+-  Organizations are in a continuous state of measurement, whether it’s overt or tacit. 
+
+-  Every observed unit of data contributes to building a picture of the business.
+
+-  The often-used adage, what gets measured gets managed, is generally applicable.
+
+-  Data measurements can be quantitative or qualitative.
+
+-  Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+
+#  Monitoring
+
+-  This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest.
+
+-  Monitoring is another process that converts data into insight and as such, exists as a mechanism to guide decisions.
+
+# Insight Management
+
+-  Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight.
+
+-  As a basic definition, business insight is sometimes referred to as information that can make a difference.
+
+#  Reporting
+
+-  Perhaps the most obvious manifestation of data and information management in any organization is the use of reports.
+
+-  Creating, delivering, receiving, and acting on reports are fundamental functions of any organization.
+
+#  Other Roles for Data
+
+-  While we’ve gone over a number of the most visible uses of data in organizations today, it was not the intent to list every conceivable way that data is used.
+
+  Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
+
+  Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data.
+
+  Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different                   team at another time 
+
+#  Improving Outcomes with Data
+
+-  Now that the diverse roles of data have been identified and discussed, it’s useful to understand how data can be leveraged to acquire its maximum value.
+
+-  It begins with recognizing that data is an organizational asset.
+
+- Perhaps the function that is most associated with data is the process of exploring it and looking for insights.
+
+#  Approaching Data as an Asset
+
+-  An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit.
+
+-  This includes the generation of income, the reduction of expenses, or an increase in net worth.
+
+-  An asset can be tangible or intangible. Tangible assets are physical things such as inventory, machines, and property.
+
+  After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders. Here are some examples of the economic value of data:
+
+-  Improves operations
+
+-  Increases existing revenue
+
+-  Produces new forms of revenue
+
+-  Builds relationships with customers and other stakeholders
+
+-  Reduces risk
+
+  Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
+#  Data Analytics
+
+  -  Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
+
+  -  In order to make sense of data, you have to apply specific tools and techniques.
+  
+  -  The process of examining data in order to produce answers or find conclusions is called data analytics.
+
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/6ecf7024-24b7-4af9-9c4f-2572909a3c10)
+
+  Figure 8: Basics steps in data analysis
+
+  Data analytics has four primary types. Figure 9 illustrates the relative complexity and value of each type.
+
+  Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business 
+  
+  Objectives. It is insight on past performance.
+
+  Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+
+  Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+
+  Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/fe40ba2d-cfdd-4756-9d7f-5db3ba16786c)
+
+#  Data Management
+  
+-  Data management is not the same as data governance! But they work closely together to deliver results in the use of enterprise data.
+
+-  Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.
+
+  Figure 9: The relative complexity and business value of four types of analytics
+
+   Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst. Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data      analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
+
+  Who would choose to make decisions based on bad data?
+
+-  On the other hand, good data management can result in more success in the marketplace.
+
+ #  Governing Data
+
+-  Governing data means that some level of control exists to support a related policy.
+
+-  For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day.
+
+-  To fully realize the potential of data in your organization means that data must be governed.
+
+  People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise.
+
+  Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes.
+
+  Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. 
+
