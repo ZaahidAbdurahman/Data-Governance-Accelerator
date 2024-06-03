@@ -197,3 +197,15 @@ The basic steps for creating a data governance program consist of the following.
 -  The organization understands this is an ongoing program and not a one-off project.
 
 -  You have documented the return-on-investment (ROI).
+
+#  Chapter 2
+
+In this chapter, we will be:
+
+-  Defining data and its relationship to information
+
+-  Exploring the role of data in the 21st century
+
+-  Moving from data to insights
+
+-  Discovering the impact of big data
