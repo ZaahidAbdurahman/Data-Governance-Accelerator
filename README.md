@@ -190,8 +190,6 @@ The basic steps for creating a data governance program consist of the following.
 
 -  Senior leadership is 100 percent committed to the program and its goals.
 
--  Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
-
 -  One or more sponsors have been identified at an executive level.
 
 -  The program has the commitment to fund its creation and to maintain it in the long term.
