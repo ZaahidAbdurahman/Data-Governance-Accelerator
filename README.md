@@ -539,3 +539,137 @@ At a minimum, data architecture considers and typically supports the following:
 
   Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. 
 
+#  Chapter 4
+
+#  Transforming Through Data
+
+In this chapter, we will be: 
+
+-  Understanding the purpose of a data catalog
+
+-  Exploring data monetization
+
+-  Implementing data-driven decision-making
+
+-  Creating a data strategy.
+
+#  Examining the Broader Value of Data
+
+-  In small organizations or when a business is first created, only a few systems are used, and team members know the type and location of most of the data that is available.
+
+-  You can imagine, for example, basic repositories for customer data, invoices, and marketing materials.
+
+-  As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise.
+
+-  Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered.
+
+-  Without deliberate actions, data democratization becomes elusive.
+
+Knowing what data is available is essential for the following reasons:
+
+-  Better informed decision-making.
+
+-  Ensuring compliance and regulatory requirements.
+
+-  Lower costs by avoiding duplicate system and data efforts.
+
+-  Improved data analytics and reporting.
+
+-  Higher performing systems.
+
+#  Data Catalogs
+
+-  You can take a few approaches to assist your organization so that your team members can find data.
+
+-  One option involves the creation of an enterprise search engine. 
+
+The three essential benefits of data catalogs are:
+
+-  Finding data: Helps users identify and locate data that may be useful.
+
+-  Understanding data: Answers a wide variety of data questions such as its purpose and who uses it.
+
+-  Making data more useful: Creates visibility, describes value, and provides access to information.
+
+-  A data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
+
+-  This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance.
+
+  A data catalog can contain three types of metadata: technical, business, and operational.
+
+  Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+
+  Business metadata:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+
+  Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+
+  Examples of metadata include the following:
+
+
+  Associated systems
+
+-  File names
+
+- File locations
+
+- Data owners
+
+- Data descriptions
+
+  With a data catalog, an organization can:
+
+- Know what data it has (and by extension, know what data is missing).
+
+- Reduce data duplication.
+
+- Increase operational efficiencies and innovation.
+
+- Understand data quality.
+
+#  Data Analytics
+
+-  Intuitively, data can contain enormous business value, but it must be unleashed.
+
+-  Simply staring at pages of columns and rows of data is unlikely to reveal any notable insights.
+
+-  It may give you a headache or you might get lucky and discover a pattern in the data.
+
+-  Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
+
+The source of data for analytics is one or a combination of the following:
+
+  First-party data:  Data that an organization collects.
+
+  Second-party data: Data that is obtained from another organization.
+
+  Third-party data: Aggregated data obtained from a provider.
+
+  Typical uses of contemporary data analytics tools and techniques include:
+
+-  Vastly improved decision-making
+
+-  Focused marketing campaigns
+
+-  Understanding the competitive landscape
+
+#  Data Monetization
+
+-  In Chapter 3, we went over the basis for data being considered an intangible asset of an organization.
+
+-  An asset is something owned that has the expectation of delivering value.
+
+  Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data.
+
+  Market value approach:  Value is calculated by researching how comparable data is being priced in the open market.
+
+  Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line.
+
+  With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. 
+
+#  Data-Driven Decision Making
+
+-  Simply stated, data-driven decision-making (DDDM) is the process of using data to drive business decisions.
+
+-  Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
+
+-  Organizations that excel at DDDM achieve it through deliberate actions and investments
