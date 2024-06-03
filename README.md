@@ -726,7 +726,8 @@ The source of data for analytics is one or a combination of the following:
   Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization.
 
   ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/ed7be15f-528a-47b1-9179-2ac0e3bb0432)
-    Figure 11: The four components of a data strategy (Source:  John Wiley & Sons)
+  
+  Figure 11: The four components of a data strategy (Source:  John Wiley & Sons)
 
 #  Managing and Monitoring Your Data Strategy
 
