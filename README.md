@@ -209,3 +209,170 @@ In this chapter, we will be:
 -  Moving from data to insights
 
 -  Discovering the impact of big data
+
+  #  Defining Data
+
+-  We create and use data all the time and we usually take it for granted. It’s part of our daily personal and business vernacular.
+
+-  Like so many things, if you were asked to define data, you’d give a definition and it may not be the same as your colleagues.
+
+#  Why all the focus on data?
+
+-  Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device.
+
+  Data is also defined based on its captured format. 
+  
+  Specifically, at a high level, it falls into one of the following categories:
+
+- Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. 
+              It’s ready for analysis. Examples include first name, last name, and phone number.
+
+- Unstructured: Data that are stored in a native format must be processed to be used.
+                Further work is required to enable analysis. Examples include email content and social media posts.
+
+- Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+
+#  Welcome to The Zettabyte Era
+
+-  Question, how big is a zettabyte.
+
+-  Just a few decades ago there was little to no use for the term by the general population.
+
+-  Today, we live in the zettabyte era. A zettabyte is a big number.
+
+-  A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
+
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/95cc15ab-8785-477c-baad-44931f3993d5)
+
+  Figure 3: The qualitative and quantitative nature of data types. (Source:  John Wiley & Sons)
+
+  Table 1b: Examples of Data Volumes
+
+  ![Screenshot (18)](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/8391a02c-785d-4e18-9983-8b762d431ef5)
+
+#  From Data to Insight
+
+-  Creating, collecting, and storing data is a waste of time and money if it’s being done without a clear purpose or intent to use it in the future.
+
+-  Data that is never used is about as useful as producing reports that nobody reads.
+
+-  The assumption is that you have data for a reason.
+
+-  You have your data and it’s incredibly important to your organization, but it must be converted to information to have meaning.
+
+#  The Role of Data in the 21st Century
+
+-  Since the early days of data processing in the 19th and 20th centuries right through to digital transformation in the 21st century, data has played many important roles.
+
+-  It’s helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems.
+
+#  Data-Driven Decision-Making
+
+  - Perhaps one of the greatest values of data is its ability to help us all make better decisions.
+  
+  - Intuitively reading the customer reviews of a restaurant on a website such as Hello Peter or Google Reviews can help you decide whether you want to eat there.
+
+#  Data as The New Oil
+
+-  A popular refrain coined by the mathematician Clive Humby in 2006 is that data is the new oil.
+
+-  Just as oil drove and grew economies in the past, data is doing that now.
+
+-  Some have subsequently added that just like oil, data has value but must first be processed to be useful.
+
+#  Data Ownership
+
+-  Data ownership describes the rights a person, team, or organization has over one or more data sets.
+
+-  These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable.
+
+-  For example, data associated with intellectual property — items such as copyrights and trade secrets — will likely have high degrees of protection, from accessibility rights to who can use the data and for what           purpose.
+
+# Data Architecture
+
+-  Today, it’s not an exaggeration to state that almost every organization is a technology business.
+
+-  After all, what businesses can function without having systems to support their operations and deliver their products and services? 
+
+-  When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA).
+
+At a minimum, data architecture considers and typically supports the following:
+
+-  Ensuring data is available to those who need it and are approved to use it.
+
+-  Reducing the complexity of accessing and utilizing data
+
+-  Creating and enforcing data protections to support organizational policies and obligations.
+
+-  Adopting and agreeing to data standards
+
+-  Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication.
+
+-  Data architecture is a direct reflection of data governance.
+
+-  An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs.
+
+  The Lifecycle of Data 
+
+  All data goes through phases during its lifecycle. Figure 6 illustrates a typical lifecycle.
+
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/c2b62776-75d0-4b93-931a-15a1f2a75b94)
+
+  Figure 6:  The lifecycle of data
+
+  Creation:  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. 
+
+  Storage:  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. 
+
+  Usage:  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. 
+
+  Archival:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment.
+
+  Destruction:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy.
+
+  Understanding the Impact of Big Data
+
+  -  Data isn’t some kind of new phenomenon. In fact, we’ve been capturing and storing data in an analog fashion for thousands of years.
+
+#  The Role of The U.S. Census in The Information Revolution
+
+-  Processing data on some form of computing device has been around since the late 1800s.
+
+-  In fact, the need for a mechanism to better tabulate the results of the U.S. constitutional requirement to conduct a population census every ten years is said to be the origin of data processing.
+
+#  Defining Big Data
+
+  One way to define and characterize big data is through these five Vs:
+
+  Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+
+  Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+
+  Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 
+  pictures a minute.
+
+  Variability:  The fact that the creation and flow of data are unpredictable.
+
+  Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+#  Drivers of Big Data
+
+-  At a technology conference in 2003, the then-CEO of Google, Eric Schmidt. At the time said that every two days the world was creating more data than all the data created since the dawn of civilization.
+
+#  Consequences of Big Data
+
+-  While these big data statistics are impressive, they don’t really paint the full picture.
+
+-  It might be easy, for example, to assume that all the data is good quality.
+
+-  You might believe it is easy to analyze. You may even think it is easily accessible.
+
+#  What about small data?
+
+-  All this talk about big data might suggest that small amounts of data just aren’t as interesting or valuable. I don’t want to suggest that, as it would be wrong.
+
+#  Enter the Realm of Smart Data
+
+-  Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value.
+
+-  Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses.
