@@ -1,5 +1,7 @@
 # Data-Governance-Accelerator
 
+#  Chapter 1
+
 In this chapter, we will be:
 
 -  Unpacking the definition of data governance
