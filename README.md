@@ -672,4 +672,69 @@ The source of data for analytics is one or a combination of the following:
 
 -  Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
 
--  Organizations that excel at DDDM achieve it through deliberate actions and investments
+-  Organizations that excel at DDDM achieve it through deliberate actions and investments.
+
+  Consider this six-step process to data-driven decision-making:
+
+  Define the objectives: This step involves understanding the objectives relative to the effort and their alignment with organizational goals.
+
+  Identify the data: In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. 
+
+  Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. 
+
+  Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool.
+
+  Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. 
+
+  Take action: That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no                     decision is necessary is.
+
+#  Developing a Data Strategy for Improved Results
+
+  Why does every organization need a data strategy?
+
+  - The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. 
+  
+  - In simple terms, it’s the roadmap on how to reach your goals.
+
+#  Creating a Data Strategy
+
+ Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
+
+ Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
+                    Defense deals with fundamental areas such as data security and quality.
+
+  A data strategy should typically account for these five areas of data requirements:
+
+  Identify: To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+
+  Store: Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+
+  Provision: Determine the processes to share and reuse data and define the guidelines for access.
+
+  Process: Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+
+  Govern: Institute processes to manage and communicate data policies for data use within the organization.
+
+  Data requirements should consider these four data strategy components:
+
+  Alignment with the business: A data strategy is a subset of the overall business strategy. This means the data strategy must support and advance the larger goals of the organization. 
+
+  Identifying roles and responsibilities: A strategy requires people to take specific actions. Without action, a strategy is a worthless document.
+
+  Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. 
+
+  Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization.
+
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/ed7be15f-528a-47b1-9179-2ac0e3bb0432)
+    Figure 11: The four components of a data strategy (Source:  John Wiley & Sons)
+
+#  Managing and Monitoring Your Data Strategy
+
+-  It would be quite the feat if you successfully design, create, and implement a data strategy in your organization.
+
+-  The organization that embraced this would be ahead of a lot of businesses and their ability to leverage the value of data and increase organizational performance will be enhanced.
+
+-  All strategies must be open to periodic modification. It’s not realistic to expect a strategy to be fixed for its duration in a fast-moving business world.
+
+
+        
