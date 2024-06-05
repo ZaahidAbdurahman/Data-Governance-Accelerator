@@ -50,11 +50,11 @@ In this chapter, we will be:
 
 -  If an organization considers data to be a priority — and an increasing number of businesses believe just that (in fact, according to Anmut
 
--   a data consultancy, 91 percent of business leaders say that data is a critical part of their organization’s success)
+-   A data consultancy, 91 percent of business leaders say that data is a critical part of their organization’s success)
 
-  -  Fundamentally, data governance is driven by a desire to increase the value of data and reduce the risks associated with it. 
+-  Fundamentally, data governance is driven by a desire to increase the value of data and reduce the risks associated with it. 
   
-  -  It forces a leap from an ad hoc approach to data to one that is strategic in nature.
+-  It forces a leap from an ad hoc approach to data to one that is strategic in nature.
 
  #  Some of the main advantages achieved by good data governance include:
 
@@ -200,7 +200,7 @@ The basic steps for creating a data governance program consist of the following.
 
 #  Chapter 2
 
-In this chapter, we will be:
+  In this chapter, we will be:
 
 -  Defining data and its relationship to information
 
@@ -296,7 +296,7 @@ In this chapter, we will be:
 
 -  When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA).
 
-At a minimum, data architecture considers and typically supports the following:
+  At a minimum, data architecture considers and typically supports the following:
 
 -  Ensuring data is available to those who need it and are approved to use it.
 
@@ -433,7 +433,7 @@ At a minimum, data architecture considers and typically supports the following:
 
 -  Monitoring is another process that converts data into insight and as such, exists as a mechanism to guide decisions.
 
-# Insight Management
+#  Insight Management
 
 -  Data forms the building blocks of many business functions. In support of decision-making — arguably its most important value — data is the source for almost all insight.
 
@@ -449,11 +449,11 @@ At a minimum, data architecture considers and typically supports the following:
 
 -  While we’ve gone over a number of the most visible uses of data in organizations today, it was not the intent to list every conceivable way that data is used.
 
-  Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
+   Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
 
-  Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data.
+   Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data.
 
-  Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different                   team at another time 
+   Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different                   team at another time 
 
 #  Improving Outcomes with Data
 
@@ -461,7 +461,7 @@ At a minimum, data architecture considers and typically supports the following:
 
 -  It begins with recognizing that data is an organizational asset.
 
-- Perhaps the function that is most associated with data is the process of exploring it and looking for insights.
+-  Perhaps the function that is most associated with data is the process of exploring it and looking for insights.
 
 #  Approaching Data as an Asset
 
@@ -483,7 +483,7 @@ At a minimum, data architecture considers and typically supports the following:
 
 -  Reduces risk
 
-  Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+   Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
 
 #  Data Analytics
 
@@ -565,7 +565,7 @@ In this chapter, we will be:
 
 -  Without deliberate actions, data democratization becomes elusive.
 
-Knowing what data is available is essential for the following reasons:
+  Knowing what data is available is essential for the following reasons:
 
 -  Better informed decision-making.
 
@@ -607,7 +607,7 @@ The three essential benefits of data catalogs are:
 
   Associated systems
 
--  File names
+- File names
 
 - File locations
 
@@ -700,7 +700,7 @@ The three essential benefits of data catalogs are:
    Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
 
    Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
-                    Defense deals with fundamental areas such as data security and quality.
+                      Defense deals with fundamental areas such as data security and quality.
 
   A data strategy should typically account for these five areas of data requirements:
 
