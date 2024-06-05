@@ -605,7 +605,6 @@ The three essential benefits of data catalogs are:
 
   Examples of metadata include the following:
 
-
   Associated systems
 
 -  File names
