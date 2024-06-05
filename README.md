@@ -38,13 +38,13 @@ In this chapter, we will be:
 
 -  Within the EIM space, there are many terms that sound like they might mean the same thing.
 
--    There is often confusion about the difference between data governance and data management.
+-  There is often confusion about the difference between data governance and data management.
 
--    Data governance is focused on roles and responsibilities, policies, definitions, metrics, and the lifecycle of data.
+-  Data governance is focused on roles and responsibilities, policies, definitions, metrics, and the lifecycle of data.
 
--    Data management is the technical implementation of data governance.
+-  Data management is the technical implementation of data governance.
 
--    Information governance is entirely concerned with the meaning of the data and its relationship in terms of outcomes and value to the organization, customers, and other stakeholders.
+-  Information governance is entirely concerned with the meaning of the data and its relationship in terms of outcomes and value to the organization, customers, and other stakeholders.
 
 #  The Value of Data Governance
 
@@ -180,7 +180,7 @@ The basic steps for creating a data governance program consist of the following.
 
 #  Assessing Data Governance Readiness
 
--  So, you’ve either determined your organization has a good data culture, or you’ve put into action some steps to help move it forward, and now you’ve decided it’s time to roll up your sleeves and begin designing a data   governance program.
+-  So, you’ve either determined your organization has a good data culture, or you’ve put into action some steps to help move it forward, and now you’ve decided it’s time to roll up your sleeves and begin designing a data    governance program.
 
   The following basic checklist of items will help you determine the data governance readiness of your organization:
 
@@ -487,11 +487,11 @@ At a minimum, data architecture considers and typically supports the following:
 
 #  Data Analytics
 
-  -  Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
+ -  Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
 
-  -  In order to make sense of data, you have to apply specific tools and techniques.
-  
-  -  The process of examining data in order to produce answers or find conclusions is called data analytics.
+ -  In order to make sense of data, you have to apply specific tools and techniques.
+
+ -  The process of examining data in order to produce answers or find conclusions is called data analytics.
 
   ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/6ecf7024-24b7-4af9-9c4f-2572909a3c10)
 
@@ -636,7 +636,7 @@ The three essential benefits of data catalogs are:
 
 -  Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
 
-The source of data for analytics is one or a combination of the following:
+  The source of data for analytics is one or a combination of the following:
 
   First-party data:  Data that an organization collects.
 
@@ -690,7 +690,7 @@ The source of data for analytics is one or a combination of the following:
 
 #  Developing a Data Strategy for Improved Results
 
-  Why does every organization need a data strategy?
+   Why does every organization need a data strategy?
 
   - The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. 
   
@@ -698,9 +698,9 @@ The source of data for analytics is one or a combination of the following:
 
 #  Creating a Data Strategy
 
- Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
+   Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
 
- Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
+   Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
                     Defense deals with fundamental areas such as data security and quality.
 
   A data strategy should typically account for these five areas of data requirements:
