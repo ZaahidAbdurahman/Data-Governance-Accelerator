@@ -50,7 +50,7 @@ In this chapter, we will be:
 
 -  If an organization considers data to be a priority — and an increasing number of businesses believe just that (in fact, according to Anmut
 
--   A data consultancy, 91 percent of business leaders say that data is a critical part of their organization’s success)
+-  A data consultancy, 91 percent of business leaders say that data is a critical part of their organization’s success)
 
 -  Fundamentally, data governance is driven by a desire to increase the value of data and reduce the risks associated with it. 
   
@@ -697,7 +697,7 @@ The three essential benefits of data catalogs are:
 
 #  Creating a Data Strategy
 
-   Data maturity:  This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
+   Data maturity: This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
 
    Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
                       Defense deals with fundamental areas such as data security and quality.
