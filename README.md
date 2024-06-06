@@ -94,7 +94,7 @@ The basic steps for creating a data governance program consist of the following.
 
   Figure 1: The most common elements of a data governance program. (Source:  John Wiley & Sons)
 
-  Developing a Data Governance Framework
+#  Developing a Data Governance Framework
 
 -  You cannot buy a data governance program off the shelf.
 
@@ -312,7 +312,7 @@ The basic steps for creating a data governance program consist of the following.
 
 -  An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs.
 
-  The Lifecycle of Data 
+# The Lifecycle of Data 
 
   All data goes through phases during its lifecycle. Figure 6 illustrates a typical lifecycle.
 
@@ -736,5 +736,8 @@ The three essential benefits of data catalogs are:
 
 -  All strategies must be open to periodic modification. It’s not realistic to expect a strategy to be fixed for its duration in a fast-moving business world.
 
+-  Your evolving customer expectations, organizational needs, the economy, and more all play a role in forcing a strategy to adapt.
+
+-  Monitoring your data strategy means having the right metrics, getting feedback regularly from participants, and auditing related outcomes.
 
         
