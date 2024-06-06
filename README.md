@@ -449,11 +449,11 @@ The basic steps for creating a data governance program consist of the following.
 
 -  While we’ve gone over a number of the most visible uses of data in organizations today, it was not the intent to list every conceivable way that data is used.
 
-   Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
+-  Artificial intelligence (AI): Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve.
 
-   Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data.
+-  Problem-solving: Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data.
 
-   Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different                   team at another time 
+-  Data reuse: While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different                   team at another time 
 
 #  Improving Outcomes with Data
 
@@ -483,15 +483,15 @@ The basic steps for creating a data governance program consist of the following.
 
 -  Reduces risk
 
-   Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+-  Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
 
 #  Data Analytics
 
- -  Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
+-  Raw data is largely useless. If you’ve ever briefly glanced at a large data set that has columns and rows of numbers, it quickly becomes clear that not much can be gathered from it.
 
- -  In order to make sense of data, you have to apply specific tools and techniques.
+-  In order to make sense of data, you have to apply specific tools and techniques.
 
- -  The process of examining data in order to produce answers or find conclusions is called data analytics.
+-  The process of examining data in order to produce answers or find conclusions is called data analytics.
 
   ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/6ecf7024-24b7-4af9-9c4f-2572909a3c10)
 
@@ -499,15 +499,15 @@ The basic steps for creating a data governance program consist of the following.
 
   Data analytics has four primary types. Figure 9 illustrates the relative complexity and value of each type.
 
-  Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business 
+-  Descriptive: Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business 
   
-  Objectives. It is insight on past performance.
+-  Objectives. It is insight on past performance.
 
-  Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+-  Diagnostic: As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
 
-  Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+-  Predictive: In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
 
-  Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+-  Prescriptive: This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
 
   ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/fe40ba2d-cfdd-4756-9d7f-5db3ba16786c)
 
@@ -533,11 +533,11 @@ The basic steps for creating a data governance program consist of the following.
 
 -  To fully realize the potential of data in your organization means that data must be governed.
 
-  People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise.
+- People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise.
 
-  Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes.
+- Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes.
 
-  Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. 
+- Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. 
 
 #  Chapter 4
 
@@ -567,43 +567,43 @@ In this chapter, we will be:
 
   Knowing what data is available is essential for the following reasons:
 
--  Better informed decision-making.
+- Better informed decision-making.
 
--  Ensuring compliance and regulatory requirements.
+- Ensuring compliance and regulatory requirements.
 
--  Lower costs by avoiding duplicate system and data efforts.
+- Lower costs by avoiding duplicate system and data efforts.
 
--  Improved data analytics and reporting.
+- Improved data analytics and reporting.
 
--  Higher performing systems.
+- Higher performing systems.
 
 #  Data Catalogs
 
--  You can take a few approaches to assist your organization so that your team members can find data.
+- You can take a few approaches to assist your organization so that your team members can find data.
 
--  One option involves the creation of an enterprise search engine. 
+- One option involves the creation of an enterprise search engine. 
 
 The three essential benefits of data catalogs are:
 
--  Finding data: Helps users identify and locate data that may be useful.
+- Finding data: Helps users identify and locate data that may be useful.
 
--  Understanding data: Answers a wide variety of data questions such as its purpose and who uses it.
+- Understanding data: Answers a wide variety of data questions such as its purpose and who uses it.
 
--  Making data more useful: Creates visibility, describes value, and provides access to information.
+- Making data more useful: Creates visibility, describes value, and provides access to information.
 
--  A data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
+- A data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
 
--  This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance.
+- This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance.
 
   A data catalog can contain three types of metadata: technical, business, and operational.
 
-  Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+- Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
 
-  Business metadata:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+- Business metadata:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
 
-  Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+- Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
 
-  Examples of metadata include the following:
+- Examples of metadata include the following:
 
   Associated systems
 
@@ -627,92 +627,92 @@ The three essential benefits of data catalogs are:
 
 #  Data Analytics
 
--  Intuitively, data can contain enormous business value, but it must be unleashed.
+- Intuitively, data can contain enormous business value, but it must be unleashed.
 
--  Simply staring at pages of columns and rows of data is unlikely to reveal any notable insights.
+- Simply staring at pages of columns and rows of data is unlikely to reveal any notable insights.
 
--  It may give you a headache or you might get lucky and discover a pattern in the data.
+- It may give you a headache or you might get lucky and discover a pattern in the data.
 
--  Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
+- Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
 
   The source of data for analytics is one or a combination of the following:
 
-  First-party data:  Data that an organization collects.
+- First-party data: Data that an organization collects.
 
-  Second-party data: Data that is obtained from another organization.
+- Second-party data: Data that is obtained from another organization.
 
-  Third-party data: Aggregated data obtained from a provider.
+- Third-party data: Aggregated data obtained from a provider.
 
   Typical uses of contemporary data analytics tools and techniques include:
 
--  Vastly improved decision-making
+- Vastly improved decision-making
 
--  Focused marketing campaigns
+- Focused marketing campaigns
 
--  Understanding the competitive landscape
+- Understanding the competitive landscape
 
 #  Data Monetization
 
--  In Chapter 3, we went over the basis for data being considered an intangible asset of an organization.
+- In Chapter 3, we went over the basis for data being considered an intangible asset of an organization.
 
--  An asset is something owned that has the expectation of delivering value.
+- An asset is something owned that has the expectation of delivering value.
 
-  Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data.
+- Cost value method: Value is calculated by determining how much it costs to produce, store, and replace lost data.
 
-  Market value approach:  Value is calculated by researching how comparable data is being priced in the open market.
+- Market value approach: Value is calculated by researching how comparable data is being priced in the open market.
 
-  Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line.
+- Economic value approach: Value is calculated by measuring the impact a data set has on the business’s bottom line.
 
-  With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. 
+- With-and-without method: Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. 
 
 #  Data-Driven Decision Making
 
--  Simply stated, data-driven decision-making (DDDM) is the process of using data to drive business decisions.
+- Simply stated, data-driven decision-making (DDDM) is the process of using data to drive business decisions.
 
--  Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
+- Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
 
--  Organizations that excel at DDDM achieve it through deliberate actions and investments.
+- Organizations that excel at DDDM achieve it through deliberate actions and investments.
 
   Consider this six-step process to data-driven decision-making:
 
-  Define the objectives: This step involves understanding the objectives relative to the effort and their alignment with organizational goals.
+- Define the objectives: This step involves understanding the objectives relative to the effort and their alignment with organizational goals.
 
-  Identify the data: In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. 
+- Identify the data: In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. 
 
-  Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. 
+- Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. 
 
-  Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool.
+- Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool.
 
-  Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. 
+- Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. 
 
-  Take action: That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no                     decision is necessary is.
+- Take action: That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no                     decision is necessary is.
 
 #  Developing a Data Strategy for Improved Results
 
    Why does every organization need a data strategy?
 
-  - The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. 
+- The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. 
   
-  - In simple terms, it’s the roadmap on how to reach your goals.
+- In simple terms, it’s the roadmap on how to reach your goals.
 
 #  Creating a Data Strategy
 
-   Data maturity: This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
+- Data maturity: This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. 
 
-   Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
+- Industry and size: You can think of data prioritization through two frameworks: defense and offense. 
                       Defense deals with fundamental areas such as data security and quality.
 
   A data strategy should typically account for these five areas of data requirements:
 
-  Identify: To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+- Identify: To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
 
-  Store: Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+- Store: Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
 
-  Provision: Determine the processes to share and reuse data and define the guidelines for access.
+- Provision: Determine the processes to share and reuse data and define the guidelines for access.
 
-  Process: Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+- Process: Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
 
-  Govern: Institute processes to manage and communicate data policies for data use within the organization.
+- Govern: Institute processes to manage and communicate data policies for data use within the organization.
 
   Data requirements should consider these four data strategy components:
 
@@ -720,9 +720,9 @@ The three essential benefits of data catalogs are:
 
   Identifying roles and responsibilities: A strategy requires people to take specific actions. Without action, a strategy is a worthless document.
 
-  Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. 
+- Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. 
 
-  Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization.
+- Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization.
 
   ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/ed7be15f-528a-47b1-9179-2ac0e3bb0432)
   
