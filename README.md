@@ -187,7 +187,7 @@ The basic steps for creating a data governance program consist of the following.
 -  The basis of a data culture exists.
 
 -  The program is 100 percent aligned with business strategy.
-
+  
 -  Senior leadership is 100 percent committed to the program and its goals.
 
 -  One or more sponsors have been identified at an executive level.
