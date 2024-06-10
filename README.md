@@ -591,6 +591,10 @@ In this chapter, we will be:
 
 -  Making data more useful: Creates visibility, describes value, and provides access to information.
 
+  ![image](https://github.com/ZaahidAbdurahman/Data-Governance-Accelerator/assets/169241347/4fbd5263-8ced-42a5-9ef4-ebdc5f8c2731)
+
+  Figure 10: A basic orientation of the components of a data catalog
+
 -  A data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
 
 -  This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance.
