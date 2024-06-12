@@ -26,7 +26,7 @@ In this chapter, we will be:
 
 #  What is data governance?
 
--  As the video explained to be effective at their jobs, staff want to find the data they need quickly, and they want it to be high-quality data.
+-  Data governance refers to the set of roles, processes, policies and tools which ensure proper data quality throughout the data lifecycle and proper data usage across an organization. 
 
 -  This means the data needs to be accurate and current.
 
